@@ -13,3 +13,4 @@ jobs:
           python-version: 3.x
       - run: git clone https://github.com/squidfunk/mkdocs-material.git
       - run: mkdocs gh-deploy --force
+      
