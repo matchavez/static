@@ -1,0 +1,3 @@
+# requirements.txt
+mkdocs==<YOUR_MKDOCS_VERSION>
+mkdocs-material==<YOUR_MATERIAL_VERSION>
